@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Isabele Facco
 
-<!--
-**IsaFacco/IsaFacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso Técnico em Informática no Colégio Politécnico da Universidade Federal de Santa Maria (UFSM).  
+💻 Apaixonada por tecnologia, programação e por aprender coisas novas todos os dias.  
+🚀 Em busca de oportunidades para aplicar meus conhecimentos e crescer como desenvolvedora.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas que estou aprendendo
+- HTML, CSS, JavaScript
+- Python,C,Java
+- Git & GitHub
+- Banco de dados
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  |Competências        | Nível          | 
+  | ------------- |:-------------:| 
+  | C   | Intermediário |
+  | Python      | Intermediário    |  
+  | zebra stripes | are neat      |   
+
+## 📚 Assuntos que já estudei
+- Arquitetura de Computadores
+- Algoritimos e Programação
+- Construção de páginas Web
+
+## 📚 Atualmente estou estudando
+- Engenharia de Software
+- Programação Orientada a Objetos
+- Banco de Dados
+- Sistema Operacional Proprietário
+
+## 🌱 Projetos em destaque
+Em breve estarei compartilhando meus projetos aqui! Fique de olho 👀
+
+## 📫 Como me encontrar
+- ✉️ Email: [isabele.facco@acad.ufsm.br] ou [isafds802@gmail.com]
+- 📸 Instagram: [@isa_facco](https://www.instagram.com/isa_facco?igsh=MTV2MXJkcHY4NnRnMg==)
+
+
+---
+
+### ⚡ Curiosidades
+- Amo desafios que envolvem lógica e criatividade
+- Gosto de trabalhar em equipe e aprender com outras pessoas
+- Estou sempre buscando evoluir como profissional e como pessoa
+
+---
+
+Obrigada por visitar meu perfil! 😊
+
+
