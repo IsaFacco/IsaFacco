@@ -15,7 +15,7 @@
   | ------------- |:-------------:| 
   | C   | Intermediário |
   | Python      | Intermediário    |  
-  | zebra stripes | are neat      |   
+  | JavaScript| Iniciante     |   
 
 ## 📚 Assuntos que já estudei
 - Arquitetura de Computadores
